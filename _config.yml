@@ -13,4 +13,7 @@ markdown: kramdown
 
 include: ['_pages']
 
+sass:
+    style: compressed
+
 
