@@ -3,7 +3,9 @@
 <body>
   {% include _google_analytics.html %}
   {% include _menu.html %}
-  {{ content }}
+  <div class="container">
+    {{ content }}
+  </div> <!-- /.container -->
   {% include _footer.html %}
   {% include _js.html %}
 </body>
