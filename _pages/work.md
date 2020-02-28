@@ -5,7 +5,7 @@ link: work
 permalink: /work/
 ---
 
-# Work
+## Work
 
 - Application Engineer - Southpaw Technology Inc., Toronto, Canada [2018-present].
 - Database Analyst/Programmer - [The LINGUIST List](https://linguistlist.org) [2011-2018].
