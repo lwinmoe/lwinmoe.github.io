@@ -5,4 +5,4 @@ link: resume
 permalink: /resume/
 ---
 
-<a href="/static/docs/lwinmoe_resume.pdf">PDF</a>
+[PDF](/static/docs/lwinmoe_resume.pdf)
