@@ -6,7 +6,7 @@ link: home
 
 I am a software developer with backgrounds in computational linguistics and machine learning. I studied computer science and linguistics at [Indiana University in Bloomington](http://iub.edu/), [Purdue University in Fort Wayne](https://www.pfw.edu/), [Asian Institute of Technology](https://www.ait.ac.th/) in Bangkok.
 
-My past experience includes working at [the LINGUIST List](https://linguistlist.org/), doing research at [the Center for Research in Computational Linguistics](http://sealang.net/) (Southeast Asian Languages Archive) and teaching at the Myanmar Institute of Theology.
+My past experience includes working at [Southpaw Technology Inc.](https://southpawtech.com/), [the LINGUIST List](https://linguistlist.org/), [the Center for Research in Computational Linguistics](http://sealang.net/) (Southeast Asian Languages Archive) and teaching at the Myanmar Institute of Theology.
 
 I have worked on some of these projects:
 
