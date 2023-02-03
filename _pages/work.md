@@ -10,6 +10,4 @@ permalink: /work/
 - Application Engineer - [Southpaw Technology Inc.](https://southpawtech.com/), Toronto, Canada [2018-present].
 - Database Analyst/Programmer - [The LINGUIST List](https://linguistlist.org) [2011-2018].
 - Research Assistant - [Center for Research in Computational Linguistics](http://www.sealang.net/) [2005-2009].
-- IT Consultant - [Digital Divide Data Laos](http://digitaldividedata.org) [2005].
-- Lecturer - Myanmar Institute of Theology [2002-2004].
 

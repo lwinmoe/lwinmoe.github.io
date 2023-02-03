@@ -7,6 +7,7 @@ permalink: /education/
 
 ## Education
 
+- Ph.D, [Computer Science](https://eecs.lassonde.yorku.ca/), ([York University](https://www.yorku.ca/), Toronto, Ontario, Canada) (Expected 2025)
 - Masters of Arts, [Computational Linguistics](https://cl.indiana.edu/), ([Indiana University in Bloomington](https://www.indiana.edu/), Indiana, USA)
 - Masters of Science, Computer Science ([Asian Intitute of Technology](https://www.ait.ac.th/), Bangkok, Thailand)
 - Bachelor of Science, Information Systems ([Purdue University](https://www.purdue.edu/), Indiana, USA)
