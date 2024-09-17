@@ -18,6 +18,7 @@ permalink: /education/
 ## Papers
 
 - Moe, L., Kundu, A. & Nguyen U.T. (2023). A BERT-based Explainable System for COVID-19 Misinformation Identification. *Workshop Proceedings of the 17th International AAAI Conference on Web and Social Media*. [https://doi.org/10.36190/2023.46](https://doi.org/10.36190/2023.46)
+- Ćavar, Damir & Moe, Lwin & Hu, Hai & Steimel, Kenneth. 2016. Preliminary results from the Free Linguistic Environment project. *Proceedings of the Joint 2016 Conference on Head-driven Phrase Structure Grammar and Lexical Functional Grammar* 161–181. (doi:10.21248/hpsg.2016.9) (https://proceedings.hpsg.xyz/article/view/528)
 - Damir Cavar, Malgorzata Cavar, and Lwin Moe. 2016. Global Open Resources and Information for Language and Linguistic Analysis (GORILLA). In *Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16)*, pages 4484–4491, Portorož, Slovenia. European Language Resources Association (ELRA).
 - Nardi, D and Moe, L. (2014). Understanding the Myanmar Supreme Court's Docket: An Analysis of Case Topics from 2007 to 2011. In Melissa Crouch and Tim Lindsey (Eds.), *Law, Society, and Transition in Myanmar* (95-114). Oxford: Hart Publishing.
 - Khan, M., Baucom, E., Meyer, A. and Moe, L. (2012). Projecting Farsi POS Data to Tag Pashto. *Proceedings of the Second Student Research Workshop associated with RANLP 2011*, 25-32. ([Link](http://aclweb.org/anthology/R/R11/R11-2004.pdf))
