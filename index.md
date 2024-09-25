@@ -13,7 +13,6 @@ My past experience includes working at [Southpaw Technology Inc.](https://southp
 I have worked on some of these projects:
 
 - [Endangered Languages Catalog](http://endangeredlanguages.com/): a worldwide effort to share knowledge and resources for endangered languages
-- [MultiTree](http://multitree.org/): a searchable database of hypotheses on language relationships
 - [Southeast Asian Linguistics Archives](http://sealang.net/sala)
 - SEALang [Burmese](http://sealang.net/burmese/), [Mon](http://sealang.net/mon/), [Shan](http://sealang.net/shan/) and [Karen](http://sealang.net/karen/dictionary.htm) dictionaries
 - SEALang [Thai](http://sealang.net/thai/), [Khmer](http://sealang.net/khmer) and [Lao](http://sealang.net/lao/) dictionaries
