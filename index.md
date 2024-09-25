@@ -19,7 +19,7 @@ I have worked on some of these projects:
 - SEALang [Thai](http://sealang.net/thai/), [Khmer](http://sealang.net/khmer) and [Lao](http://sealang.net/lao/) dictionaries
 
 
-I enjoy working on projects that encompass mathematics, computer science and linguistics. I wrote my Master's thesis on the [Automatic Bitext Alignment for Southeast Asian Languages](https://docs.google.com/file/d/0B7ZEOyKXVhn1bk5LMF9pRy0xUUU/edit?usp=sharing). I also like music and travelling. I love travelling to Southeast Asian countries and learning about their languages.
+I enjoy working on projects that encompass mathematics, computer science and linguistics. I wrote my Master's thesis on the [Automatic Bitext Alignment for Southeast Asian Languages](/static/docs/lwinmoe-thesis.pdf). I also like music and travelling. I love travelling to Southeast Asian countries and learning about their languages.
 
 My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-github"></i></a>
 
