@@ -4,86 +4,77 @@
 @charset "utf-8";
 
 @font-face {
-  font-family: 'Padauk';
-  src: url('/static/fonts/Padauk/Padauk.eot');
-  src: url('/static/fonts/Padauk/Padauk.woff') format('woff'),
-       url('/static/fonts/Padauk/Padauk.ttf') format('truetype'),
-       url('/static/fonts/Padauk/Padauk.svg') format('svg');
-  font-weight: normal;
-  font-style: normal;
+    font-family: 'Padauk';
+    src: url('/static/fonts/Padauk/Padauk.eot');
+    src: url('/static/fonts/Padauk/Padauk.woff') format('woff'),
+        url('/static/fonts/Padauk/Padauk.ttf') format('truetype'),
+        url('/static/fonts/Padauk/Padauk.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 
 html, body {
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif, Padauk;
-  height: 100%;
-  background-color: #fdfde9;
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif, Padauk;
+    height: 100%;
+    background-color: #fdfde9;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1,.h2, .h3, .h4, .h5,.h6 {
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif, Padauk;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    border-bottom: 1px dotted #b393d3
 }
 
 a:link {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline dotted;
-  text-decoration-color: red;
-  background-color: antiquewhite;
+    text-decoration: underline dotted;
+    text-decoration-color: red;
+    background-color: antiquewhite;
 }
 
-code,
-kbd,
-pre,
-samp {
-  font-family: monospace, serif, Padauk;
+code, kbd, pre, samp {
+    font-family: monospace, serif, Padauk;
 }
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6 {
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif, Padauk;
-}
-
-code,
-pre {
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace, Padauk;
-}
-
 
 /* Wrapper for page content to push down footer */
 #wrap {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  /* Negative indent footer by its height */
-  margin: 0 auto -60px;
-  /* Pad bottom by footer height */
-  padding: 0 0 60px;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    /* Negative indent footer by its height */
+    margin: 0 auto -60px;
+    /* Pad bottom by footer height */
+    padding: 0 0 60px;
 }
 
 .container {
-  width: auto;
-  max-width: 1024px;
-  /*padding: 0 15px;*/
-  padding-top: 10px;
-  padding-bottom: 10px;
-  .credit {
+    width: auto;
+    max-width: 1024px;
+    /*padding: 0 15px;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    .credit {
     margin: 20px 0;
-  }
+    }
 }
 
 /* Set the fixed height of the footer here */
 #footer {
-  height: 60px;
-  background-color: #f5f5f5;
-  padding-top: 5px;
-  padding-bottom: 5px;
+    height: 60px;
+    background-color: #f5f5f5;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }

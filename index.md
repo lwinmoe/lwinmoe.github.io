@@ -4,7 +4,7 @@ title: Lwin Moe
 link: home
 ---
 
-## About
+## About Lwin Moe
 
 I am a software developer with backgrounds in computational linguistics and machine learning. I studied computer science and linguistics at [Indiana University in Bloomington](http://iub.edu/), [Purdue University in Fort Wayne](https://www.pfw.edu/), [Asian Institute of Technology](https://www.ait.ac.th/) in Bangkok.
 
@@ -18,7 +18,7 @@ I have worked on some of these projects:
 - SEALang [Thai](http://sealang.net/thai/), [Khmer](http://sealang.net/khmer) and [Lao](http://sealang.net/lao/) dictionaries
 
 
-I enjoy working on projects that encompass mathematics, computer science and linguistics. I wrote my Master's thesis on the [Automatic Bitext Alignment for Southeast Asian Languages](/static/docs/lwinmoe-thesis.pdf). I also like music and travelling. I love travelling to Southeast Asian countries and learning about their languages.
+I enjoy working on projects that encompass mathematics, computer science and linguistics. My Master's thesis was on the [Automatic Bitext Alignment for Southeast Asian Languages](/static/docs/lwinmoe-thesis.pdf). I also like music and travelling. I love travelling to Southeast Asian countries and learning about their languages.
 
 My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-github"></i></a>
 
