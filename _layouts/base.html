@@ -1,12 +1,13 @@
 <html>
-  {% include _head.html %}
+    {% include _head.html %}
 <body>
-  {% include _menu.html %}
-  <div class="container">
-    {{ content }}
-  </div> <!-- /.container -->
-  {% include _footer.html %}
-  {% include _js.html %}
-  {% include _google_analytics.html %}
+    <div id="wrap">
+        <div class="container">
+            {{ content }}
+        </div>
+    </div>
+    {% include _footer.html %}
+    {% include _js.html %}
+    {% include _google_analytics.html %}
 </body>
 </html>
