@@ -42,7 +42,6 @@ My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-g
 1. Nardi, D and Moe, L. (2014). Understanding the Myanmar Supreme Court's Docket: An Analysis of Case Topics from 2007 to 2011. In Melissa Crouch and Tim Lindsey (Eds.), *Law, Society, and Transition in Myanmar* (95-114). Oxford: Hart Publishing.
 1. Khan, M., Baucom, E., Meyer, A. and Moe, L. (2012). Projecting Farsi POS Data to Tag Pashto. *Proceedings of the Second Student Research Workshop associated with RANLP 2011*, 25-32. [https://aclanthology.org/R11-2004/](https://aclanthology.org/R11-2004/)
 1. Johnson, P., Kim, B., Moe, L. and Erbach, D. (2002). Visualization of Web Retrieval Results. *Proceedings of the ISCA 15th International Conference on Computer Applications in Industry and Engineering* 33-36. ([PDF](/static/docs/Visualization_of_Web_Retrieval_Results.pdf))
-1. Moe, L. (2002). Visualization of Internet Search Result. *Proceedings of the 14th Annual Butler University Undergraduate Research Conference*, 47.
 
 
 ## Thesis
