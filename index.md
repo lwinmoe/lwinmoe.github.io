@@ -48,7 +48,7 @@ My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-g
 
 
 ## Thesis
-- [Automatic Bitext Alignment for Southeast Asian Languages](https://docs.google.com/file/d/0B7ZEOyKXVhn1bk5LMF9pRy0xUUU/edit?usp=sharing) ([PDF](/static/docs/lwinmoe-thesis.pdf))
+- [Automatic Bitext Alignment for Southeast Asian Languages](/static/docs/lwinmoe-thesis.pdf)
 
 
 ## Education
