@@ -7,11 +7,11 @@ link: home
 
 ## About Lwin Moe
 
-I am a software developer with backgrounds in computational linguistics and machine learning. I studied computer science and linguistics at [Indiana University in Bloomington](http://iub.edu/), [Purdue University in Fort Wayne](https://www.pfw.edu/), [Asian Institute of Technology](https://www.ait.ac.th/) in Bangkok.
+I am currently a Ph.D. student at York University's [Lassonde School of Engineering](https://eecs.lassonde.yorku.ca/). As part of my Ph.D. dissertation, I have recently been working on fact checking and misinformation detection using machine learning in general, and natural language processing (NLP) in particular.
+
+Before doing my Ph.D., I was a software developer with backgrounds in computational linguistics and machine learning. I studied computer science and linguistics at [Indiana University in Bloomington](http://iub.edu/), [Purdue University in Fort Wayne](https://www.pfw.edu/), [Asian Institute of Technology](https://www.ait.ac.th/) in Bangkok.
 
 My past experience includes working at [Southpaw Technology Inc.](https://southpawtech.com/), [the LINGUIST List](https://linguistlist.org/), [the Center for Research in Computational Linguistics](http://sealang.net/) (Southeast Asian Languages Archive) and teaching at the Myanmar Institute of Theology.
-
-As part of my Ph.D. dissertation, I have recently been working on fact checking using machine learning in general, and NLP in particular.
 
 I enjoy working on projects that encompass mathematics, computer science and linguistics. My Master's thesis was on the [Automatic Bitext Alignment for Southeast Asian Languages](/static/docs/lwinmoe-thesis.pdf). I also like music and travelling. I love travelling to Southeast Asian countries and learning about their languages.
 
@@ -20,8 +20,9 @@ My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-g
 
 ## Work Experience
 
+- Teaching Assistant - [Lassonde School of Engineering](https://eecs.lassonde.yorku.ca/), York University, Toronto, Canada [2021-present]
 - Application Engineer - [Southpaw Technology Inc.](https://southpawtech.com/), Toronto, Canada [2018-present].
-- Database Analyst/Programmer - [The LINGUIST List](https://linguistlist.org) [2011-2018].
+- Database Analyst/Programmer - [The LINGUIST List](https://linguistlist.org), Bloomington, Indiana, USA [2011-2018].
 - Research Assistant - [Center for Research in Computational Linguistics](http://www.sealang.net/) [2005-2009].
 
 
@@ -56,6 +57,7 @@ My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-g
 
 I have contributed to these projects from previous jobs:
 
+- [Open-source remote colloboration platform](https://github.com/Southpaw-TACTIC/TACTIC) from [Southpaw Technology Inc.](https://southpawtech.com/)
 - [Endangered Languages Catalog](http://endangeredlanguages.com/): a worldwide effort to share knowledge and resources for endangered languages
 - [Southeast Asian Linguistics Archives](http://sealang.net/sala)
 - SEALang [Burmese](http://sealang.net/burmese/), [Mon](http://sealang.net/mon/), [Shan](http://sealang.net/shan/) and [Karen](http://sealang.net/karen/dictionary.htm) dictionaries
