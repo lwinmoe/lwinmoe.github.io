@@ -30,7 +30,6 @@ My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-g
 - Database Analyst/Programmer - [The LINGUIST List](https://linguistlist.org) [2011-2018].
 - Research Assistant - [Center for Research in Computational Linguistics](http://www.sealang.net/) [2005-2009].
 
-
 ## Resume
 
 - [PDF](/static/docs/lwinmoe_resume.pdf)
@@ -43,7 +42,7 @@ My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-g
 - Cavar, D., Cavar, M., & Moe, L. (2016). Global Open Resources and Information for Language and Linguistic Analysis (GORILLA). In N. Calzolari, K. Choukri, T. Declerck, S. Goggi, M. Grobelnik, B. Maegaard, J. Mariani, H. Mazo, A. Moreno, J. Odijk, & S. Piperidis (Eds.), *Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC’16)* (pp. 4484–4491). European Language Resources Association (ELRA). [https://aclanthology.org/L16-1710](https://aclanthology.org/L16-1710)
 - Nardi, D and Moe, L. (2014). Understanding the Myanmar Supreme Court's Docket: An Analysis of Case Topics from 2007 to 2011. In Melissa Crouch and Tim Lindsey (Eds.), *Law, Society, and Transition in Myanmar* (95-114). Oxford: Hart Publishing.
 - Khan, M., Baucom, E., Meyer, A. and Moe, L. (2012). Projecting Farsi POS Data to Tag Pashto. *Proceedings of the Second Student Research Workshop associated with RANLP 2011*, 25-32. [https://aclanthology.org/R11-2004/](https://aclanthology.org/R11-2004/)
-- Johnson, P., Kim, B., Moe, L. and Erbach, D. (2002). Visualization of Web Retrieval Results. *Proceedings of the ISCA 15th International Conference on Computer Applications in Industry and Engineering* 33-36. ([Link](https://docs.google.com/file/d/0B7ZEOyKXVhn1ZGRTNGtOOEtLRlE/edit?usp=sharing))
+- Johnson, P., Kim, B., Moe, L. and Erbach, D. (2002). Visualization of Web Retrieval Results. *Proceedings of the ISCA 15th International Conference on Computer Applications in Industry and Engineering* 33-36. ([PDF](/static/docs/Visualization_of_Web_Retrieval_Results.pdf))
 - Moe, L. (2002). Visualization of Internet Search Result. *Proceedings of the 14th Annual Butler University Undergraduate Research Conference*, 47.
 
 
