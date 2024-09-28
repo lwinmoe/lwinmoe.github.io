@@ -1,5 +1,4 @@
 @charset "utf-8";
-
 @font-face {
     font-family: 'Padauk';
     src: url('/static/fonts/Padauk/Padauk.eot');
@@ -9,7 +8,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
 
 html, body {
     font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif, Padauk;
@@ -46,17 +44,6 @@ code, kbd, pre, samp {
     font-family: monospace, serif, Padauk;
 }
 
-/* Wrapper for page content to push down footer */
-#wrap {
-    min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    /* Negative indent footer by its height */
-    margin: 0 auto -60px;
-    /* Pad bottom by footer height */
-    padding: 0 0 60px;
-}
-
 .container {
     width: auto;
     max-width: 1024px;
@@ -67,6 +54,17 @@ code, kbd, pre, samp {
 
 .credit {
     margin: 20px 0;
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    /* Negative indent footer by its height */
+    margin: 0 auto -60px;
+    /* Pad bottom by footer height */
+    padding: 0 0 60px;
 }
 
 /* Set the fixed height of the footer here */
