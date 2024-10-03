@@ -9,11 +9,9 @@ link: home
 
 I am currently a Ph.D. student at York University's [Lassonde School of Engineering](https://eecs.lassonde.yorku.ca/). As part of my Ph.D. dissertation, I have recently been working on fact checking and misinformation detection using machine learning in general, and natural language processing (NLP) in particular.
 
-Before doing my Ph.D., I was a software developer with backgrounds in computational linguistics and machine learning. I studied computer science and linguistics at [Indiana University in Bloomington](http://iub.edu/), [Purdue University in Fort Wayne](https://www.pfw.edu/), [Asian Institute of Technology](https://www.ait.ac.th/) in Bangkok.
+I was a software developer before doing my Ph.D. I studied computer science and linguistics at [Indiana University](http://iub.edu/) in Bloomington, [Purdue University](https://www.pfw.edu/) in Fort Wayne, and [Asian Institute of Technology](https://www.ait.ac.th/) in Bangkok. My past experience includes working at [Southpaw Technology Inc.](https://southpawtech.com/), [the LINGUIST List](https://linguistlist.org/), [the Center for Research in Computational Linguistics](http://sealang.net/) (Southeast Asian Languages Archive) and teaching at the Myanmar Institute of Theology.
 
-My past experience includes working at [Southpaw Technology Inc.](https://southpawtech.com/), [the LINGUIST List](https://linguistlist.org/), [the Center for Research in Computational Linguistics](http://sealang.net/) (Southeast Asian Languages Archive) and teaching at the Myanmar Institute of Theology.
-
-I enjoy working on projects that encompass mathematics, computer science and linguistics. My Master's thesis was on the [Automatic Bitext Alignment for Southeast Asian Languages](/static/docs/lwinmoe-thesis.pdf). I also like music and travelling. I love travelling to Southeast Asian countries and learning about their languages.
+I enjoy working on projects that encompass mathematics, computer science and linguistics. My Master's thesis was on the [Automatic Bitext Alignment for Southeast Asian Languages](/static/docs/lwinmoe-thesis.pdf). I also like music and travelling.
 
 My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-github"></i></a>
 
