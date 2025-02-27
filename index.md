@@ -19,7 +19,7 @@ My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-g
 ## Work Experience
 
 - Teaching Assistant - [Lassonde School of Engineering](https://eecs.lassonde.yorku.ca/), York University, Toronto, Canada [2021-present]
-- Application Engineer - [Southpaw Technology Inc.](https://southpawtech.com/), Toronto, Canada [2018-2025].
+- Application Engineer - [Southpaw Technology Inc.](https://southpawtech.com/), Toronto, Canada [2018-2024].
 - Database Analyst/Programmer - [The LINGUIST List](https://linguistlist.org), Bloomington, Indiana, USA [2011-2018].
 - Research Assistant - [Center for Research in Computational Linguistics](http://www.sealang.net/) [2005-2009].
 
