@@ -31,7 +31,7 @@ My GitHub: <a href="https://github.com/lwinmoe" role="button"><i class="fab fa-g
 
 ## Papers
 
-1. Moghaddam, A., Moe, L., & Nguyen, U. T. (2025). Fact checking in low resource languages: Creating translation-based datasets and benchmarking for Farsi. *In Proceedings of the 3rd International Conference on Foundation and Large Language Models (FLLM 2025)*, Vienna, Austria.
+1. Moghaddam, A., Moe, L., & Nguyen, U. T. (2025). Fact checking in low resource languages: Creating translation-based datasets and benchmarking for Farsi. *In Proceedings of the 3rd International Conference on Foundation and Large Language Models (FLLM 2025)*, Vienna, Austria. [https://ieeexplore.ieee.org/document/11390927](https://ieeexplore.ieee.org/document/11390927)
 1. Moe, L., Nguyen, U. T., & Luu, B. T. (2025). Mitigating class imbalance in fact-checking datasets through LLM-based synthetic data generation. In *Proceedings of the 4th ACM International Workshop on Multimedia AI against Disinformation (MAD’25)*. ACM. [https://doi.org/10.1145/3733567.3735571](https://doi.org/10.1145/3733567.3735571)
 1. Moe, L., Kundu, A. & Nguyen U.T. (2023). A BERT-based Explainable System for COVID-19 Misinformation Identification. *Workshop Proceedings of the 17th International AAAI Conference on Web and Social Media*. [https://doi.org/10.36190/2023.46](https://doi.org/10.36190/2023.46)
 1. Ćavar, D., Moe, L., Hu, H., & Steimel, K. (2016). Preliminary results from the Free Linguistic Environment project. *Proceedings of the Joint 2016 Conference on Head-Driven Phrase Structure Grammar and Lexical Functional Grammar*, 161–181. [https://doi.org/10.21248/hpsg.2016.9](https://doi.org/10.21248/hpsg.2016.9)
