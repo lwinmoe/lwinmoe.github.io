@@ -7,7 +7,7 @@ link: home
 
 ## About Lwin Moe
 
-I am currently a Ph.D. student at York University's [Lassonde School of Engineering](https://eecs.lassonde.yorku.ca/). As part of my Ph.D. dissertation, I have recently been working on fact checking and misinformation detection using machine learning in general, and natural language processing (NLP) in particular.
+I am currently a Ph.D. student at York University's [Lassonde School of Engineering](https://eecs.lassonde.yorku.ca/), researching natural language processing and machine learning for low-resource languages. My work focuses on automated fact-checking, sentiment analysis, and tokenization for large language models. I bring a background in computational linguistics and professional experience in software development.
 
 I was a software developer before doing my Ph.D. I studied computer science and linguistics at [Indiana University](http://iub.edu/) in Bloomington, [Purdue University](https://www.pfw.edu/) in Fort Wayne, and [Asian Institute of Technology](https://www.ait.ac.th/) in Bangkok. My past experience includes working at [Southpaw Technology Inc.](https://southpawtech.com/), [the LINGUIST List](https://linguistlist.org/), [the Center for Research in Computational Linguistics](http://sealang.net/) (Southeast Asian Languages Archive) and teaching at the Myanmar Institute of Theology.
 
